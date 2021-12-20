@@ -1,0 +1,10 @@
+C:\Users\jivko\source\repos\Rock-Paper-ScissorsGame\Rock-Paper-ScissorsGame\bin\Debug\Rock-Paper-ScissorsGame.exe.config
+C:\Users\jivko\source\repos\Rock-Paper-ScissorsGame\Rock-Paper-ScissorsGame\bin\Debug\Rock-Paper-ScissorsGame.exe
+C:\Users\jivko\source\repos\Rock-Paper-ScissorsGame\Rock-Paper-ScissorsGame\bin\Debug\Rock-Paper-ScissorsGame.pdb
+C:\Users\jivko\source\repos\Rock-Paper-ScissorsGame\Rock-Paper-ScissorsGame\obj\Debug\Rock-Paper-ScissorsGame.csprojAssemblyReference.cache
+C:\Users\jivko\source\repos\Rock-Paper-ScissorsGame\Rock-Paper-ScissorsGame\obj\Debug\Rock_Paper_ScissorsGame.MainForm.resources
+C:\Users\jivko\source\repos\Rock-Paper-ScissorsGame\Rock-Paper-ScissorsGame\obj\Debug\Rock_Paper_ScissorsGame.Properties.Resources.resources
+C:\Users\jivko\source\repos\Rock-Paper-ScissorsGame\Rock-Paper-ScissorsGame\obj\Debug\Rock-Paper-ScissorsGame.csproj.GenerateResource.cache
+C:\Users\jivko\source\repos\Rock-Paper-ScissorsGame\Rock-Paper-ScissorsGame\obj\Debug\Rock-Paper-ScissorsGame.csproj.CoreCompileInputs.cache
+C:\Users\jivko\source\repos\Rock-Paper-ScissorsGame\Rock-Paper-ScissorsGame\obj\Debug\Rock-Paper-ScissorsGame.exe
+C:\Users\jivko\source\repos\Rock-Paper-ScissorsGame\Rock-Paper-ScissorsGame\obj\Debug\Rock-Paper-ScissorsGame.pdb
